@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="add">Добавить предмет</string>
+    <string name="cancel">Отмена</string>
+</resources>
